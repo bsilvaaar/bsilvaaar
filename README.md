@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @bsilvaaar
 - 👀 I’m interested in to learn how to code 
-- 🌱 I’m currently learning everything about code
-- 📫 How to reach me bsr31052004@gmail.com
+- 🌱 I’m currently learning data Analyse
+,
 
 <!---
 bsilvaaar/bsilvaaar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
